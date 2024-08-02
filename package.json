@@ -1,0 +1,15 @@
+{
+  "name": "technical-challenge",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "- Create a new private repository using this one as the template. - Invite Lorenzo Zuluaga ([L-Zuluaga](https://github.com/L-Zuluaga)) to the repository. - Create a branch called `technical-challenge` were you will be adding all your work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/.bin/jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
